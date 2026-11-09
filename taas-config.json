@@ -1,0 +1,15 @@
+{
+  "board": "",
+  "build": {
+    "url": "",
+    "storageType": "",
+    "storageLayout": "",
+    "productFlavor": "",
+    "binaryType": ""
+  },
+  "testPlan": {
+    "name": "",
+    "framework": "",
+    "content": ""
+  }
+}
